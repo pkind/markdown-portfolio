@@ -1,5 +1,4 @@
-##Favs:
----
+## Favs:
 1. Questioning?
 2. Exploring!
 3. Solution.

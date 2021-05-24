@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+##**New Title**  
+---
+_Just program the snakes._  
+'How do we say **"Hello World!"** in Python?'
